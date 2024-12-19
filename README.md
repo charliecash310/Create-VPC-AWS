@@ -1,6 +1,10 @@
-# Create-VPC-AWS
-Create Virtual Private Cloud VPC AWS
+<h1> Create-VPC-AWS </h1>
+ <b> Create Virtual Private Cloud VPC AWS.</b>
+<br />
 
+
+<h2>Learning Objectives</h2>
+</p alight="left">
 1. Explain the use of virtual private cloud networks (use, advantages, and disadvantages) 
 
 2. Identify key concepts required to create and use a VPC 
@@ -12,4 +16,36 @@ Create Virtual Private Cloud VPC AWS
 5. Create a virtual private cloud (VPC) network using the AWS cloud console
 
 By the end of this project, you will have successfully created a virtual private cloud using Amazon Web Services and launched a virtual machine instance in that cloud.
+</p>
 
+<h2><b> Environments Used </b></h2>
+
+- <b> </b>
+- <b> </b>
+
+<h2> Projects: </h2>
+
+<p align="left">
+
+Google Cybersecurity: <br/>
+<!-- <img src=""/> -->
+- [Activities](https://github.com/charliecash310/GoogleCS2023)
+- Manage Security Risk
+- Network Security
+- Linux
+- Vulnerability Management
+- Incident Repsonse
+- Python Programming
+<br />
+
+</p>
+
+<!--
+ ```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+--!>
