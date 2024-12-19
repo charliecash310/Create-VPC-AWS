@@ -27,18 +27,8 @@ By the end of this project, you will have successfully created a virtual private
 
 <p align="left">
 
-Google Cybersecurity: <br/>
-<!-- <img src=""/> -->
-- [Activities](https://github.com/charliecash310/GoogleCS2023)
-- Manage Security Risk
-- Network Security
-- Linux
-- Vulnerability Management
-- Incident Repsonse
-- Python Programming
-<br />
 
-</p>
+<!-- <img src=""/> -->
 
 <!--
  ```diff
