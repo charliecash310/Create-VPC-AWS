@@ -18,16 +18,6 @@
 By the end of this project, you will have successfully created a virtual private cloud using Amazon Web Services and launched a virtual machine instance in that cloud.
 </p>
 
-<h2><b> Environments Used </b></h2>
-
-- <b> </b>
-- <b> </b>
-
-<h2> Projects: </h2>
-
-<p align="left">
-
-
 <!-- <img src=""/> -->
 
 <!--
