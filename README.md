@@ -2,9 +2,11 @@
  <b> Create Virtual Private Cloud VPC AWS.</b>
 <br />
 
+<br >
 [LINK](https://www.coursera.org/learn/create-virtual-private-cloud-vpc-aws/ungradedLab/aXhX5/create-a-virtual-private-cloud-vpc-using-aws/lab?path=%2F)
+<br />
 
-<h2>Learning Objectives</h2>
+ <h2>Learning Objectives</h2>
 
 1. Explain the use of virtual private cloud networks (use, advantages, and disadvantages) 
 
