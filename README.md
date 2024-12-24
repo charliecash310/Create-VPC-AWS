@@ -2,6 +2,7 @@
  <b> Create Virtual Private Cloud VPC AWS.</b>
 <br />
 
+[LINK](https://www.coursera.org/learn/create-virtual-private-cloud-vpc-aws/ungradedLab/aXhX5/create-a-virtual-private-cloud-vpc-using-aws/lab?path=%2F)
 
 <h2>Learning Objectives</h2>
 
